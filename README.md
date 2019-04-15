@@ -1,6 +1,6 @@
 # punch-bowl
 
-<table><tr><td><img src = "PUNCHLogo_sm.png" height = "300"></td><td><H2>Welcome to the PUNCH Bowl!</h2></td><td>PUNCHLogo_tiny.png</tr></table>
+<table><tr><td><img src = "PUNCHLogo_sm.png" height = "300"></td><td><H2>Welcome to the PUNCH Bowl!</h2></td><td><img src ="punchbowl.png"</tr></table>
 
 
 <font size = "+1">The PUNCH Bowl is your online, interactive User Guide to:
