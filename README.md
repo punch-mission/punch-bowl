@@ -24,6 +24,6 @@ Search, query and retrieve all of the available science data products
 * [Query and download flow maps for a given date range](http://)
 ## Analyze PUNCH Data:
 Contains vital scripts that promote science data to measureables, manipulate data products. Essential scripts are provided by the PI team.
-* [Query and download flow maps for a given date range](http://)
+* [Produce flow map using cross-correlation on a finer scale than Level 2 Data Product](http://)
 ## Collaborate and Share: 
 Create your own forked PUNCH repository, share your own recipes and solutions, and join the 
