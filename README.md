@@ -15,9 +15,11 @@ _________________
 
 # PUNCH Recipes
 Python-powered, IDL-friendly demonstrations, examples and scripts that allow you to make the most of PUNCH data!  
-## Browse PUNCH Data:  
-determine what data are available, get an idea of what the data look like, identify which data you'd like to analyze
-## Access PUNCH Data:
-search and retrieve PUNCH science data and data products
+## Browse the PUNCH Repository:  
+Determine what data are available, get an idea of what the data look like, identify which data you'd like to analyze.  Images, movies, summary plots, context data.  Recipes will help you make the most of the available browse data and contextual information, to make sure you can find the data you want quickly.
+## Access PUNCH Data Products:
+Search, query and retrieve all of the available science data products
 ## Analyze PUNCH Data:
-vital scripts that promote science data to measureables, manipulate data products
+Contains vital scripts that promote science data to measureables, manipulate data products. Essential scripts are provided by the PI team.
+## Collaborate and Share: 
+Create your own forked PUNCH repository, share your own recipes and solutions, and join the 
